@@ -116,7 +116,7 @@
     "poster": "Néfary La Chute/Werewolf_Affiche.webp",
     "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
     "type": "film",
-    "jsonFile": "Néfary La Chute/film1.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/Werewolf.json"
   },
   {
     "id": 10,
