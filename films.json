@@ -25,12 +25,12 @@
       {
         "episode": 1,
         "title": "Episode Bonus: Ouverture",
-        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/Ouverture%20Creepy%20week.json"
+        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaLumière.json"
       },
       {
         "episode": 2,
         "title": "Episode 1: La Lumière",
-        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaLumière.json"
+        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/Ouverture%20Creepy%20week.json"
       },
       {
         "episode": 3,
