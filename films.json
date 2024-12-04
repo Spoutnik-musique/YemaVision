@@ -84,7 +84,7 @@
     "poster": "Néfary La Chute/Batmanvspunisher_affiche.png",
     "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
     "type": "film",
-    "jsonFile": "Néfary La Chute/film1.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/BatmanVPunisher.json"
   },
   {
     "id": 6,
