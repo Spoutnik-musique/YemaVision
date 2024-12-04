@@ -25,12 +25,12 @@
       {
         "episode": 1,
         "title": "Episode Bonus: Ouverture",
-        "jsonFile": "Serie/Creepy_Week_S1/Ouverture%20Creepy%20week.json"
+        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/Ouverture%20Creepy%20week.json"
       },
       {
         "episode": 2,
         "title": "Episode 1: La Lumière",
-        "jsonFile": "Serie/Creepy_Week_S1/LaLumière.json"
+        "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaLumière.json"
       },
       {
         "episode": 3,
@@ -116,7 +116,7 @@
     "poster": "Néfary La Chute/Werewolf_Affiche.webp",
     "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
     "type": "film",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/Werewolf.json"
+    "jsonFile": "film2.json"
   },
   {
     "id": 10,
