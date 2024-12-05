@@ -5,7 +5,7 @@
     "poster": "Néfary La Chute/Maloye_affiche.webp",
     "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
     "type": "film",
-    "jsonFile": "Néfary La Chute/film1.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Maloye.json"
   },
   {
     "id": 3,
@@ -60,12 +60,12 @@
     "episodes": [
       {
         "episode": 1,
-        "title": "Le Secret de la Forêt",
+        "title": "*episode inconnue*",
         "jsonFile": "Mystery Hills/Episode 1.json"
       },
       {
         "episode": 2,
-        "title": "Les Disparus",
+        "title": "*episode inconnue*",
         "jsonFile": "Mystery Hills/Episode 2.json"
       }
     ]
@@ -84,6 +84,6 @@
     "poster": "Néfary La Chute/Joker_affiche.png",
     "description": "Le retour d'un agent de police avec une vengeance implacable.",
     "type": "film",
-    "jsonFile": "film2.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Joker.json"
   }
 ]
