@@ -1,4 +1,4 @@
-[
+ure[
   {
     "id": 1,
     "title": "Maloye: A la Recherche de L'Ether Noir",
@@ -20,7 +20,7 @@
         "episodes": [
           {
             "title": "Episode Bonus: Ouverture",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaLumièreCW.json"
+            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/OuvertureCW.json"
           },
           {
             "title": "Episode 1: La Lumière",
