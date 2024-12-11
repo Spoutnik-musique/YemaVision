@@ -72,41 +72,8 @@
         "season": 1,
         "episodes": [
           {
-            "title": "Episode Bonus: Ouverture",
+            "title": "Episode 1: *nom à rentrer*",
             "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/OuvertureCW.json"
-          },
-          {
-            "title": "Episode 1: La Lumière",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaLumièreCW.json"
-          },
-          {
-            "title": "Episode 2: Le Blob",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LeBlobCW.json"
-          },
-          {
-            "title": "Episode 3: La Poupée",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/LaPoupéeCW.json"
-          },
-          {
-            "title": "Episode 4: Werewolf",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/WerewolfCW.json"
-          },
-          {
-            "title": "Episode 5: Invasion",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/InvasionCW.json"
-          },
-          {
-            "title": "Episode Bonus: Fermeture",
-            "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Serie/Creepy_Week_S1/FermeCW.json"
-          }
-        ]
-      },
-      {
-        "season": 2,
-        "episodes": [
-          {
-            "title": "Épisode 1",
-            "jsonFile": "episode1.json"
           }
         ]
       }
