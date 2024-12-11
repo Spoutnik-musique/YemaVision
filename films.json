@@ -90,7 +90,7 @@
     "id": 6,
     "title": "Joker: L'homme qui rit",
     "poster": "Néfary La Chute/Joker_affiche.png",
-    "description":"Joker : L'Homme qui rit raconte l'ascension tragique d'Arthur Kellogg, un homme brisé par la violence et la négligence, qui devient le Joker, un agent du chaos au sourire macabre, dans une exploration sombre de la folie et de la révolte contre une société en déclin.",
+    "description":"Joker raconte l'ascension tragique d'Arthur, un homme brisé par la violence, qui devient le Joker.",
     "type": "film",
     "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Joker.json"
   }
