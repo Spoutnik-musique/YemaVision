@@ -16,7 +16,7 @@
     "type": "film",
     "trailer": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Maloye.json",
     "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/MiguelCalderon.json"
-  }?
+  },
   {
     "id": 3,
     "title": "Creepy Week",
