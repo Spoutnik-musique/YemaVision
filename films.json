@@ -91,12 +91,11 @@
     "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Joker.json"
   },
   {
-    "id": 1,
-    "title": "Documentaire",
-    "poster": "Néfary La Chute/Maloye_affiche.webp",
-    "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
-    "type": "Documentaire",
-    "trailer": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Maloye.json",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Maloye.json"
+    "id": 7,
+    "title": "The Profiler",
+    "poster": "Néfary La Chute/The_Profiler.png",
+    "description":"The Profiler.",
+    "type": "film",
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Profiler.json"
   }
 ]
