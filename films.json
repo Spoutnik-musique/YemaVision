@@ -93,7 +93,7 @@
   {
     "id": 7,
     "title": "The Profiler",
-    "poster": "Néfary La Chute/The_Profiler.png",
+    "poster": "Affiche/The_Profiler.png",
     "description":"The Profiler.",
     "type": "film",
     "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Profiler.json"
