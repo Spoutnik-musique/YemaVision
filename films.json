@@ -96,7 +96,7 @@
     "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/The_Profiler.png",
     "description":"The Profiler",
     "type": "film",
-    "jsonFile": "https://github.com/Spoutnik-musique/YemaVision/blob/main/Film/The%20Profiler.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/The%20Profiler.json"
   },
   {
     "id": 8,
@@ -104,6 +104,6 @@
     "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/MC.png",
     "description":"Miguel Calderon",
     "type": "film",
-    "jsonFile": "https://github.com/Spoutnik-musique/YemaVision/blob/main/Film/MiguelCalderon.json"
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/MiguelCalderon.json"
   }
 ]
