@@ -9,6 +9,38 @@
     "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Maloye.json"
   },
   {
+    "id": 8,
+    "title": "Miguel Calderon",
+    "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/MC.png",
+    "description":"Miguel Calderon",
+    "type": "film",
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/MiguelCalderon.json"
+  },
+  {
+    "id": 7,
+    "title": "The Profiler",
+    "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/The_Profiler.png",
+    "description":"The Profiler",
+    "type": "film",
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/TheProfiler.json"
+  },
+  {
+    "id": 6,
+    "title": "Joker: L'homme qui rit",
+    "poster": "Néfary La Chute/Joker_affiche.png",
+    "description":"Joker raconte l'ascension tragique d'Arthur, un homme brisé par la violence, qui devient le Joker.",
+    "type": "film",
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Joker.json"
+  }, 
+  {
+    "id": 5,
+    "title": "Batman VS Punisher",
+    "poster": "Néfary La Chute/Batmanvspunisher_affiche.png",
+    "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
+    "type": "film",
+    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/BatmanVPunisher.json"
+  },
+  {
     "id": 3,
     "title": "Creepy Week",
     "poster": "https://github.com/Spoutnik-musique/YemaVision/blob/main/Serie/Creepy_Week_S1/Creepy_Week.png?raw=true",
@@ -73,37 +105,5 @@
         ]
       }
     ]
-  }, 
-  {
-    "id": 5,
-    "title": "Batman VS Punisher",
-    "poster": "Néfary La Chute/Batmanvspunisher_affiche.png",
-    "description": "Un thriller palpitant dans une ville gangrenée par la corruption.",
-    "type": "film",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/BatmanVPunisher.json"
-  },
-  {
-    "id": 6,
-    "title": "Joker: L'homme qui rit",
-    "poster": "Néfary La Chute/Joker_affiche.png",
-    "description":"Joker raconte l'ascension tragique d'Arthur, un homme brisé par la violence, qui devient le Joker.",
-    "type": "film",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/Joker.json"
-  },
-  {
-    "id": 7,
-    "title": "The Profiler",
-    "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/The_Profiler.png",
-    "description":"The Profiler",
-    "type": "film",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/The%20Profiler.json"
-  },
-  {
-    "id": 8,
-    "title": "Miguel Calderon",
-    "poster": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Affiche/MC.png",
-    "description":"Miguel Calderon",
-    "type": "film",
-    "jsonFile": "https://raw.githubusercontent.com/Spoutnik-musique/YemaVision/refs/heads/main/Film/MiguelCalderon.json"
   }
 ]
