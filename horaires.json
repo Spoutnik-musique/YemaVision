@@ -1,0 +1,366 @@
+{
+    "dimanche": [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "1",
+            "heure": "13:46",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "lundi":  [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "mardi":  [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "mercredi": [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "jeudi": [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "vendredi":  [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ],
+    "samedi":  [
+        {
+            "nom": "Power",
+            "heure": "10:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "11:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "13:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "15:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "16:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "18:00",
+            "salle": 2
+        },
+        {
+            "nom": "Communale",
+            "heure": "19:30",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "21:00",
+            "salle": 1
+        },
+        {
+            "nom": "Power",
+            "heure": "22:30",
+            "salle": 2
+        },
+        {
+            "nom": "Power",
+            "heure": "00:00",
+            "salle": 1
+        }
+    ]
+}
