@@ -3,7 +3,8 @@
     "webhookName": "Clipsou Studio",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/5a8ad63ab71ca569e9b454920cc38cfd.webp",
     "message": "https://giphy.com/gifs/XuyWKV8b9NKjSEJNbR",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Mark Bangalteur",
@@ -183,7 +184,8 @@
     "webhookName": "Habitants",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/c70fb11e0da8f8c51c121a04a64ea9ab.webp",
     "message": "https://cdn.discordapp.com/attachments/1400823981933858956/1400877908935053424/image1.gif?ex=688ee578&is=688d93f8&hm=a9f83d08fd535aae40e86f09dc54d79ed4d5540056480983be03118750950a97&",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Melissa Bangalteur",
@@ -519,7 +521,8 @@
     "webhookName": "Tom Chefer",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/d78d3d8b9758cbfff6f1832ca3c4783a.webp",
     "message": "https://cdn.discordapp.com/attachments/1400823981933858956/1400928733531078686/image0.gif?ex=688f14ce&is=688dc34e&hm=e84c516e9919ad8268ae5d1f82e24efeb83bd00354d3c8f9409cad703152e55c&",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Timeo bangalteur",
@@ -837,7 +840,8 @@
     "webhookName": "Jennifer Sinclar",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/8a0d7ce2ca1a7d7064d5f936504696b3.webp",
     "message": "*Tourne les talons, ferme doucement la porte derrière elle et s’en va sans un mot*",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Timeo bangalteur",
@@ -1041,7 +1045,8 @@
     "webhookName": "Journal",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/9f2ba22eda4498924b84301a38a183d6.webp",
     "message": "Le mystère s’épaissit. Les autorités demandent à la population d’éviter tout enregistrement ou écoute du “sifflement de LuckyField”.",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Melissa Bangalteur",
@@ -1527,7 +1532,8 @@
     "webhookName": "Enfants",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/42f4dfd84e74a80828917714fda59b9b.webp",
     "message": "https://cdn.discordapp.com/attachments/1400823981933858956/1401140142424592444/image0.gif?ex=688f30f1&is=688ddf71&hm=33e4ef3b78dbdce7cf38a86e3e38486a6480815595cc11b2d4c76ae6c7b63d54&",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Melissa Bangalteur",
@@ -2013,7 +2019,8 @@
     "webhookName": "recompte_36087",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1313868710628560920/242d7069ef2fd2f4e486999efe346449.webp",
     "message": "",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Melissa Bangalteur",
@@ -2469,7 +2476,8 @@
     "webhookName": "Le Sifflement",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/93e3791c76f3ecb76734dddcfb2d990c.webp",
     "message": "*s'arrête d'un coup",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Clipsou Studio",
@@ -2907,7 +2915,8 @@
     "webhookName": "Lisa Miller",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/009d40a9d963ba406c2d38859e2ac482.webp",
     "message": "Timeo ??",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Timeo bangalteur",
@@ -2997,7 +3006,8 @@
     "webhookName": "Madie Miller",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/a4585a0ecec139d8c1ad9afffe76f45b.webp",
     "message": "il fait déjà jours !!",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Emily Miller",
@@ -3039,13 +3049,15 @@
     "webhookName": "Melissa Bangalteur",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/29cb257c6a75ab985d8cbb07f72ad421.webp",
     "message": "*ne répondent pas et marchent sans émotion*",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Timeo bangalteur",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/06dd2edebedfa8c69bc00611d90e2066.webp",
     "message": "*rejoind son père et sa mère toujours en marchant sans émotion*",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Mark Bangalteur",
@@ -3057,7 +3069,8 @@
     "webhookName": "Mark Bangalteur",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/07924529db4668d0075cb674c431cedc.webp",
     "message": "https://cdn.discordapp.com/attachments/1400823981933858956/1401198749858005075/image0.gif?ex=68901046&is=688ebec6&hm=869865fc3ad6a97ab94e87a3adb38f96895be61bbf4005a6044ceabb7b25f140&",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Clipsou Studio",
@@ -3099,7 +3112,8 @@
     "webhookName": "Journal",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/9f2ba22eda4498924b84301a38a183d6.webp",
     "message": "ce matin les corps de Mark Bangalteur, Melissa Bangalteur et le jeune Timeo Bangalteur on était retrouvé noyé a seulement quelque kilomètres de Lucky field dans le Lac relié à la ville , les causes de la mort sont pour le moment introuvables, les enquêteurs pensent à un suicide ou bien un esprit démoniaque.",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Clipsou Studio",
@@ -3141,13 +3155,15 @@
     "webhookName": "Emily Miller",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/71b480a931d88a8bd10e4eac1f80b7f5.webp",
     "message": "Nonn Nonn pas ça !",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "James Miller",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/0a16fe07e9225ad50cc768d734625d0b.webp",
     "message": "mort.",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   },
   {
     "webhookName": "Clipsou Studio",
@@ -3231,6 +3247,7 @@
     "webhookName": "Clipsou Studio",
     "webhookAvatar": "https://cdn.discordapp.com/avatars/1400830435323543571/5a8ad63ab71ca569e9b454920cc38cfd.webp",
     "message": "Jennifer Sincla : Sidney Clopes",
-    "time": 3
+    "time": 3,
+    "delete": "YES"
   }
 ]
