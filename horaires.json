@@ -2,32 +2,32 @@
     "dimanche": [
         {
             "nom": "Power",
-            "heure": "10:00",
+            "heure": "8:30",
             "salle": 1
         },
         {
             "nom": "Power",
-            "heure": "11:30",
+            "heure": "10:00",
             "salle": 2
         },
         {
             "nom": "Power",
-            "heure": "13:00",
+            "heure": "12:30",
             "salle": 1
         },
         {
             "nom": "1",
-            "heure": "13:46",
+            "heure": "14:00",
             "salle": 1
         },
         {
             "nom": "Power",
-            "heure": "16:30",
+            "heure": "15:30",
             "salle": 1
         },
         {
             "nom": "Power",
-            "heure": "18:00",
+            "heure": "17:00",
             "salle": 2
         },
         {
